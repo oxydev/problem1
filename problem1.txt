@@ -1,0 +1,6 @@
+0:initialize the variables
+1:Create a while loop which end untill number is 4 million
+2:Inside the loop the fibonacci sequence is determined
+3:if Condition is used to check if the number is even or not
+4:if the number is even add it to the sum untill the loop end
+5:Display the Sum 
